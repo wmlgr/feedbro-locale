@@ -5,8 +5,8 @@
         "locale_name": "Spanish",
         "locale_type": "es_ES",
         "locale_last_updated": "2019-12-17 12:00:00 UTC",
-        "locale_author_name": "@wmlgr",
-        "locale_author_email": "https://twitter.com/@wmlgr",
+        "locale_author_name": "Williams Melgar",
+        "locale_author_email": "https://github.com/wmlgr",
         "locale_source_url": "https://nodetics.com/feedbro/"
     },
     "addfeed_url_body": "URL del feed",
